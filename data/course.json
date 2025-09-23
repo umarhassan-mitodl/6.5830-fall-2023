@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Graduate",
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "04438590-295f-6d6b-e1fc-c0ed7750b8fa",
+      "bd79b6c3-1d6b-46a9-bdab-58509f836d0d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "da159320-1bf1-4f40-9209-79dc85b62d7e",
+    "website": "database-systems"
+  },
+  "course_title": "Database Systems",
+  "hide_download": true,
+  "course_description": "This course relies on primary readings from the database community to introduce graduate/undergraduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalization, query optimization, transactions, and other more advanced topics. No prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.5831",
+  "primary_course_number": "6.5830",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "database-systems"
+  },
+  "learning_resource_types": [
+    "Readings",
+    "Lecture Notes",
+    "Laboratory Assignments",
+    "Multiple Assignment Types",
+    "Exams with Solutions",
+    "Projects"
+  ],
+  "site_uid": "2ba6c609-8584-4b4f-9359-fbd8622ca844",
+  "site_short_id": "6.5830-fall-2023",
+  "site_url_path": "courses/6-5830-database-systems-fall-2023"
+}
